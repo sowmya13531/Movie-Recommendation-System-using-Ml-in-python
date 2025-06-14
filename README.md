@@ -59,6 +59,8 @@ The dataset contains movie metadata including:
 ### 🔍 Input Example  
 ![User Input](https://github.com/sowmya13531/Movie-Recommendation-System-using-Ml-in-python/blob/main/input2.png?raw=true)
 
+For the above Input image, user entered the movie name 'interstellar'. After performing Difflib, Vectorization, Cosine similarity it will generate the recommendations as shown below.(No.of movies Recommendations depends on i value)
+
 ### 📋 Recommendations Output  
 ![Recommendations](https://github.com/sowmya13531/Movie-Recommendation-System-using-Ml-in-python/blob/main/output.png?raw=true)
 
