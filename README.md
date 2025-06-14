@@ -2,9 +2,6 @@
 
 This project is a content-based Movie Recommendation System built using Python. It suggests similar movies based on genres, keywords, cast, director, and tagline using NLP techniques.
 
-## 📽️ Project Demo
-![Movie Recommendation System Output](Pictures/output.png)
-
 ---
 
 ## 📌 Features
@@ -60,10 +57,10 @@ The dataset contains movie metadata including:
 
 ## 📸 Screenshots
 ### 🔎 Input Example
-![User Input](Pictures/input1.png)
+![User Input](Phone/Pictures/input2.png)
 
 ### 📋 Recommendations Output
-![Recommendations](Pictures/input2.png)
+![Recommendations](Phone/Pictures/output.png)
 
 ---
 
