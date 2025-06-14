@@ -72,15 +72,15 @@ For the above Input image, user entered the movie name 'interstellar'. After per
    ```bash
    git clone https://github.com/sowmya13531/Movie-Recommendation-System-using-ML-in-python.git
 
-🎯 Future Enhancements
+## 🎯 Future Enhancements
 
-Switch to Hybrid Recommendation System
+🎥Switch to Hybrid Recommendation System
 
-Deploy using Streamlit or Gradio
+🎥Deploy using Streamlit or Gradio
 
-Add IMDb ratings, movie posters
+🎥Add IMDb ratings, movie posters
 
-Use deep learning-based embeddings (BERT, Doc2Vec)
+🎥Use deep learning-based embeddings (BERT, Doc2Vec)
 
 
 ---
