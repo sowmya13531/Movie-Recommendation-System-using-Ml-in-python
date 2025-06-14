@@ -1,6 +1,6 @@
 # 🎬 Movie Recommendation System using Machine Learning
 
-This project is a content-based Movie Recommendation System built using Python. It suggests similar movies based on genres, keywords, cast, director, and tagline using NLP techniques.
+This project is a content-based Movie Recommendation System built using Python. It suggests similar movies based on genres, overview, crew, director, and keywords using NLP techniques.
 
 ---
 
