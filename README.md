@@ -56,11 +56,11 @@ The dataset contains movie metadata including:
 ---
 
 ## 📸 Screenshots
-### 🔎 Input Example
-![User Input](Phone/Pictures/input2.png)
+### 🔍 Input Example  
+![User Input](https://github.com/sowmya13531/Movie-Recommendation-System-using-Ml-in-python/blob/main/input2.png?raw=true)
 
-### 📋 Recommendations Output
-![Recommendations](Phone/Pictures/output.png)
+### 📋 Recommendations Output  
+![Recommendations](https://github.com/sowmya13531/Movie-Recommendation-System-using-Ml-in-python/blob/main/output.png?raw=true)
 
 ---
 
