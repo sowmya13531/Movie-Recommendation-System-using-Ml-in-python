@@ -17,8 +17,8 @@ This project is a content-based Movie Recommendation System built using Python. 
 The dataset contains movie metadata including:
 - Genres
 - Keywords
-- Tagline
-- Cast
+- overview 
+- Crew
 - Director
 
 🗂 Source: Kaggle
@@ -71,3 +71,19 @@ For the above Input image, user entered the movie name 'interstellar'. After per
 1. Clone this repo  
    ```bash
    git clone https://github.com/sowmya13531/Movie-Recommendation-System-using-ML-in-python.git
+
+🎯 Future Enhancements
+
+Switch to Hybrid Recommendation System
+
+Deploy using Streamlit or Gradio
+
+Add IMDb ratings, movie posters
+
+Use deep learning-based embeddings (BERT, Doc2Vec)
+
+
+---
+
+> ⭐ If you found this helpful, feel free to give this repo a star!
+> 
